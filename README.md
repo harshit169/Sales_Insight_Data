@@ -1,4 +1,4 @@
-### Sales_Insight_Data
+### Sales_Insight_Data_Analysis
 
 ### Data Analysis Using SQL
 
